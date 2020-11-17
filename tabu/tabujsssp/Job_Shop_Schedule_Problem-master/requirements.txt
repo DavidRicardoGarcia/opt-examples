@@ -1,0 +1,7 @@
+cython==0.29.*
+numpy==1.16.*
+plotly==4.0.*
+progressbar==2.5
+XlsxWriter==1.1.*
+jinja2==2.10.*
+pandas==1.0.*
